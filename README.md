@@ -20,9 +20,6 @@ An AI-powered web application built with **Streamlit** that:
   * Experience (Role, Company, Duration)
 * **AI-Powered Extraction**: Uses **Gemini API** for accurate information extraction.
 * **Job Portal**: Lists available jobs with "Apply" buttons.
-* **Persistent Applications**: Tracks applications and prevents duplicate submissions.
-* **Beautiful UI**: Gradient background and styled input fields.
-* **Auto-seeded Jobs**: Automatically populates the database with sample jobs.
 
 ---
 
