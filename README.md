@@ -1,5 +1,7 @@
 # 📄 Resume Extractor & Job Application Portal
 
+---
+
 An AI-powered web application built with **Streamlit** that:
 ✅ Extracts information from uploaded resumes (PDF, DOCX, Image) using **Gemini API**
 ✅ Allows **user sign-up and login** with SQLite database
